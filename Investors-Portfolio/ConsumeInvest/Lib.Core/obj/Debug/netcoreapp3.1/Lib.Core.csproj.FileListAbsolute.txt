@@ -1,0 +1,10 @@
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.deps.json
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.pdb
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.csproj.AssemblyReference.cache
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.AssemblyInfoInputs.cache
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.AssemblyInfo.cs
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.csproj.CoreCompileInputs.cache
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.pdb

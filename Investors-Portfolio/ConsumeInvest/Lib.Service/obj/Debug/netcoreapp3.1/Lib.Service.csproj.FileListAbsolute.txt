@@ -1,0 +1,13 @@
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.deps.json
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.dll
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.pdb
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Core.pdb
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.AssemblyReference.cache
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfoInputs.cache
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfo.cs
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CoreCompileInputs.cache
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CopyComplete
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.dll
+C:\Users\jreddy51\source\repos\ConsumeInvest\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.pdb
